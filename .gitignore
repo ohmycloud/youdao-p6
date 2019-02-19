@@ -6,7 +6,7 @@
 .DS_Store
 # Devel::Cover
 cover_db/
-
+.precomp
 # Devel::NYTProf
 nytprof.out
 
